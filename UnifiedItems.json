@@ -1,11 +1,12 @@
 {
-  "homepage": "chazwarp923.tech",
-  "1.10.2": {
-    "1.0": "Initial Functionality", 
-  },
-
-  "promos": {
-    "1.10.2-latest": "1.0",
-    "1.10.2-recommended": "1.0",
-  }
+    "homepage": "chazwarp923.tech",
+    
+    "promos": {
+        "1.10.2-latest": "1.0",
+        "1.10.2-recommended": "1.0",
+    },
+    
+    "1.10.2": {
+        "1.0": "Initial Functionality",
+    }
 }
