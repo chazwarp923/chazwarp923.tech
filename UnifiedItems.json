@@ -2,11 +2,12 @@
     "homepage": "chazwarp923.tech",
     
     "promos": {
-        "1.10.2-latest": "1.0",
-        "1.10.2-recommended": "1.0",
+        "1.10.2-latest": "1.0.1",
+        "1.10.2-recommended": "1.0.1",
     },
     
     "1.10.2": {
+        "1.0.1": "Fixes Issue #1",
         "1.0": "Initial Functionality",
     }
 }
