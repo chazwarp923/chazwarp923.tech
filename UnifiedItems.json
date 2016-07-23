@@ -1,8 +1,8 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/unified-items",
   "promos": {
-    "1.10.2-latest": "1.0.5",
-    "1.10.2-recommended": "1.0.5"
+    "1.10.2-latest": "1.0.6",
+    "1.10.2-recommended": "1.0.6"
   },
   "1.10.2": {
     "1.0.0": "Initial Functionality",
@@ -10,6 +10,7 @@
     "1.0.2": "Temporary workaround for issue #2",
     "1.0.3": "Fixes Issue #2",
     "1.0.4": "Actually Fixes #2",
-    "1.0.5": "Fixes world generation"
+    "1.0.5": "Fixes world generation",
+    "1.0.6": "Fixes dust recipes... again"
   }
 }
