@@ -13,6 +13,7 @@
     "1.0.5": "Fixes world generation",
     "1.0.6": "Fixes dust recipes... again",
     "1.0.7": "Fixes TCon tools not being able to mine the blocks",
-    "1.1.0": "Adds support for TechReborn"
+    "1.1.0": "Adds support for TechReborn",
+    "1.2.0": "Adds support for EnderIO, Railcraft and Immersive Engineering"
   }
 }
