@@ -1,8 +1,8 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/unified-items",
   "promos": {
-    "1.10.2-latest": "1.2.0",
-    "1.10.2-recommended": "1.2.0"
+    "1.10.2-latest": "1.2.1",
+    "1.10.2-recommended": "1.2.1"
   },
   "1.10.2": {
     "1.0.0": "Initial Functionality",
@@ -14,6 +14,7 @@
     "1.0.6": "Fixes dust recipes... again",
     "1.0.7": "Fixes TCon tools not being able to mine the blocks",
     "1.1.0": "Adds support for TechReborn",
-    "1.2.0": "Adds support for EnderIO, Railcraft and Immersive Engineering"
+    "1.2.0": "Adds support for EnderIO, Railcraft and Immersive Engineering",
+    "1.2.1": "New Steel Textures, fixes alloy blocks being unbreakable and adds a JEI plugin"
   }
 }
