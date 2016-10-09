@@ -17,6 +17,7 @@
     "1.2.0": "Adds support for EnderIO, Railcraft and Immersive Engineering",
     "1.2.1": "New steel textures, fixes alloy blocks being unbreakable and adds a JEI plugin",
     "1.2.2": "Complete texture overhaul, Unity Style",
-    "1.3.0": "Properly implemented the config"
+    "1.3.0": "Properly implemented the config",
+    "1.3.1": "Fixes a crash when generating new chunks"
   }
 }
