@@ -4,7 +4,9 @@
     "1.10.2-latest": "1.4.1",
     "1.10.2-recommended": "1.4.1",
     "1.11-latest": "1.4.1",
-    "1.11-recommended": "1.4.1"
+    "1.11-recommended": "1.4.1",
+    "1.11.2-latest": "1.4.1",
+    "1.11.2-reccomended": "1.4.1"
   },
   "1.10.2": {
     "1.0.0": "Initial functionality",
@@ -33,5 +35,8 @@
     "1.3.4": "New coal and silver textures since i missed them",
     "1.4.0": "Adds DenseOres compatibility and allows force enabling/disabling of any given material",
     "1.4.1": "Fixes a world gen crash"
+  }
+  "1.11.2": {
+    "1.4.1": "No changes from 1.11.0, straight port"
   }
 }
