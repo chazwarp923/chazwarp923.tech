@@ -29,7 +29,7 @@
     "1.4.0": "Adds DenseOres compatibility and allows force enabling/disabling of any given material",
     "1.4.1": "Fixes a world gen crash",
     "1.4.2": "Merge 1.10 and 1.11 versions",
-    "1.4.3": "Fix foce anbling/disabling"
+    "1.4.3": "Fix force enabling/disabling"
   },
   "1.11": {
     "1.3.2": "Initial port to 1.11",
@@ -38,11 +38,11 @@
     "1.4.0": "Adds DenseOres compatibility and allows force enabling/disabling of any given material",
     "1.4.1": "Fixes a world gen crash",
     "1.4.2": "Merge 1.10 and 1.11 versions",
-    "1.4.3": "Fix foce anbling/disabling"
+    "1.4.3": "Fix force enabling/disabling"
   },
   "1.11.2": {
     "1.4.1": "No changes from 1.11.0, straight port",
     "1.4.2": "Merge 1.10 and 1.11 versions",
-    "1.4.3": "Fix foce anbling/disabling"
+    "1.4.3": "Fix force enabling/disabling"
   }
 }
