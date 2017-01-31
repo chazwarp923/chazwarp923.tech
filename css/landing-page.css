@@ -97,6 +97,11 @@ h6 {
     background-color: #f8f8f8;
 }
 
+.github-mark:hover {
+    height:36px;
+    width:36px;
+}
+
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
