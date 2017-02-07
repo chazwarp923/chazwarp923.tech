@@ -1,12 +1,12 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/unified-items",
   "promos": {
-    "1.10.2-latest": "1.4.7",
-    "1.10.2-recommended": "1.4.7",
-    "1.11-latest": "1.4.7",
-    "1.11-recommended": "1.4.7",
-    "1.11.2-latest": "1.4.7",
-    "1.11.2-reccomended": "1.4.7"
+    "1.10.2-latest": "1.4.8",
+    "1.10.2-recommended": "1.4.8",
+    "1.11-latest": "1.4.8",
+    "1.11-recommended": "1.4.8",
+    "1.11.2-latest": "1.4.8",
+    "1.11.2-reccomended": "1.4.8"
   },
   "1.10.2": {
     "1.0.0": "Initial functionality",
@@ -33,7 +33,8 @@
     "1.4.4": "Fix the MissingMapping handler",
     "1.4.5": "Fixes a crash with the Mortar and Pestle in 1.11",
     "1.4.6": "Update localization and modify mining level of Silver and Lead",
-    "1.4.7": "Fixes the JEI plugin"
+    "1.4.7": "Fixes the JEI plugin",
+    "1.4.8": "Fixes the Mortar and Pestle"
   },
   "1.11": {
     "1.3.2": "Initial port to 1.11",
@@ -46,7 +47,8 @@
     "1.4.4": "Fix the MissingMapping handler",
     "1.4.5": "Fixes a crash with the Mortar and Pestle in 1.11",
     "1.4.6": "Update localization and modify mining level of Silver and Lead",
-    "1.4.7": "Fixes the JEI plugin"
+    "1.4.7": "Fixes the JEI plugin",
+    "1.4.8": "Fixes the Mortar and Pestle"
   },
   "1.11.2": {
     "1.4.1": "No changes from 1.11.0, straight port",
@@ -55,6 +57,7 @@
     "1.4.4": "Fix the MissingMapping handler",
     "1.4.5": "Fixes a crash with the Mortar and Pestle in 1.11",
     "1.4.6": "Update localization and modify mining level of Silver and Lead",
-    "1.4.7": "Fixes the JEI plugin"
+    "1.4.7": "Fixes the JEI plugin",
+    "1.4.8": "Fixes the Mortar and Pestle"
   }
 }
