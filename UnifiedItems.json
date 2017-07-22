@@ -89,6 +89,6 @@
     "1.6.2": "Fix blocks not being registered",
     "1.6.3": "Remove JEI as a hard dependency, oops",
     "1.6.4": "Actually remove JEI as a hard dependency, double oops, if you use JEI no need to update",
-    "1.7.0": "Rework the modular system to auto-detect supported materials"
+    "1.7.0": "Rework the modular system to auto-detect supported materials, YOU WILL CRASH THE 'FIRST' LOAD WITH THIS NEW VERSION"
   }
 }
