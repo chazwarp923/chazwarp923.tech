@@ -1,11 +1,4 @@
 User-agent: *
 Disallow: /.git/
-Disallow: /css/
-Disallow: /error/
-Disallow: /font-awesome/
-Disallow: /fonts/
-Disallow: /img/
-Disallow: /js/
-Disallow: /less/
 Disallow: /mail/
 Disallow: /jenkins/
