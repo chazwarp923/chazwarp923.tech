@@ -8,3 +8,4 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /less/
 Disallow: /mail/
+Disallow: /jenkins/
