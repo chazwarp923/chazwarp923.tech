@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /.git/
 Disallow: /mail/
-Disallow: /jenkins/
