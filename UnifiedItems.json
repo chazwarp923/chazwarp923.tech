@@ -7,7 +7,7 @@
     "1.11-recommended": "1.5.4",
     "1.11.2-latest": "1.5.5",
     "1.11.2-reccomended": "1.5.4",
-    "1.12-latest": "1.7.0",
+    "1.12-latest": "1.7.1",
     "1.12-reccomended": "1.7.0"
   },
   "1.10.2": {
@@ -89,6 +89,7 @@
     "1.6.2": "Fix blocks not being registered",
     "1.6.3": "Remove JEI as a hard dependency, oops",
     "1.6.4": "Actually remove JEI as a hard dependency, double oops, if you use JEI no need to update",
-    "1.7.0": "Rework the modular system to auto-detect supported materials, YOU WILL CRASH THE 'FIRST' LOAD WITH THIS NEW VERSION"
+    "1.7.0": "Rework the modular system to auto-detect supported materials, YOU WILL CRASH THE 'FIRST' LOAD WITH THIS NEW VERSION",
+    "1.7.1": "Added a config option to disable auto-detection and use manual overrides instead"
   }
 }
