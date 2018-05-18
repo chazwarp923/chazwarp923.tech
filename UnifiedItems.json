@@ -11,8 +11,8 @@
     "1.12-reccomended": "1.7.0",
     "1.12.1-latest": "1.7.2",
     "1.12.1-reccomended": "1.7.1",
-    "1.12.2-latest": "1.7.2",
-    "1.12.2-reccomended": "1.7.2"
+    "1.12.2-latest": "1.7.4",
+    "1.12.2-reccomended": "1.7.4"
   },
   "1.10.2": {
     "1.0.0": "Initial functionality",
@@ -102,6 +102,7 @@
   },
   "1.12.2": {
     "1.7.2": "Allows the mod to run on 1.12.2",
-    "1.7.3": "Fixed ore dictionary recipes, thanks forge."
+    "1.7.3": "Fixed ore dictionary recipes, thanks forge.",
+    "1.7.4": "Fixed Mortar and Pestle Recipe, Added Gold and Iron plates + gears"
   }
 }
